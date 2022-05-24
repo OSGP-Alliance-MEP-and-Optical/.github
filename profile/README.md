@@ -11,7 +11,7 @@ OSGP Smart Meters includes (but are not excusively) meters from <a href="https:/
 Note: These Meters were previously also named "Echelon".<br>
 
 :trophy:<b>History of this repository</b><br>
-This repository was originally created by Graves Kilsgaard and Gert Lynge from <a href="https://www.dabbler.dk" target="_new">www.dabbler.dk</>, but with massive support from <a href="https://www.networkedenergy.com/">NES</a> and <a href="https://www.osgp.org/" target="_new">OSGP Alliance</a>.<br>
+This repository was originally created by Graves Kilsgaard and Gert Lynge from <a href="https://www.dabbler.dk" target="_new">www.dabbler.dk</a>, but with massive support from <a href="https://www.networkedenergy.com/" target="_new">NES</a> and <a href="https://www.osgp.org/" target="_new">OSGP Alliance</a>.<br>
 We both have access to multiple installations with OSGP Smart Meters from <a href="https://www.networkedenergy.com/">NES</a> and Echelon, and have wonderes for years if we could somehow read the consumption in an intelligent way using Arduinos, ESPs or Raspberry PIs. Unfortunately our research showed that tinkeres like us have tried that for years - mostly without any success at all.<br>
 We were not able to find much info. and for sure no real detailed documentation on neither the MEP nor the Optical interface and protocol. So the project for getting to the data was put on hold for a while.<br>
 Until 2020 where we attended the small danish Tinkering gathering <a href="https://sommerhack.dk/" target="_new">Sommerhack 2020</a>. We attended some of the presentations there about Smart meters and the power distribution grid etc. And we were inspired to put more efford into the project.<br>
