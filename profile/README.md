@@ -1,27 +1,18 @@
 <a href="https://www.osgp.org/" target="_new"><img src="https://www.dabbler.dk/wp-content/uploads/2022/05/OSGP.png"></a>
 <hr>
-<H1>:point_right:The official <a href="https://www.osgp.org/" target="_new">OSGP Alliance</a> Repository with documentation for the MEP (Multipurpose Expansion Port) and Optical interfaces found in many OSGP Smart Meters:point_left:</H1>
+<H1>:point_right:Official <a href="https://www.osgp.org/" target="_new">OSGP Alliance</a> Repository for MEP (Multipurpose Expansion Port) and Optical interface documentation:point_left:</H1>
 
 :alarm_clock:<b>Work in progress</b><br>
 <b>!!! IMPORTANT: This is work in progress. Documents are not yet released here, but will be soon. Stay tuned! !!!</b><br>
 
 :notebook_with_decorative_cover:<b>Contents</b><br>
 This repository holds the official release of the documentation for the MEP (Multipurpose Expansion Port) and the Optical interface found in many OSGP Smart Meters.
-OSGP Smart Meters includes (but are not excusively) meters from <a href="https://www.networkedenergy.com/">NES (Networked Energy Services)</a>.<br>
+OSGP Smart Meters, i.e. meters from <a href="https://www.networkedenergy.com/">NES (Networked Energy Services)</a>.<br>
 Note: These Meters were previously also named "Echelon".<br>
 
 :trophy:<b>History of this repository</b><br>
 This repository was originally created by Graves Kilsgaard and Gert Lynge from <a href="https://www.dabbler.dk" target="_new">www.dabbler.dk</a>, but with massive support from <a href="https://www.networkedenergy.com/" target="_new">NES</a> and <a href="https://www.osgp.org/" target="_new">OSGP Alliance</a>.<br>
-We both have access to multiple installations with OSGP Smart Meters from <a href="https://www.networkedenergy.com/">NES</a> and Echelon, and have wonderes for years if we could somehow read the consumption in an intelligent way using Arduinos, ESPs or Raspberry PIs. Unfortunately our research showed that tinkerers like us have tried that for years - mostly without any success at all.<br>
-We were not able to find much info. and for sure no real detailed documentation on neither the MEP nor the Optical interfaces and protocols. So the project for getting to the data was put on hold for a while.<br>
-On hold, until 2020 where we attended the small danish Tinkering gathering <a href="https://sommerhack.dk/" target="_new">Sommerhack 2020</a>. We attended some of the presentations there about Smart meters and the power distribution grid etc. And we were inspired to put more efford into the project.<br>
-After more research, a lot of dead ends and frustration, we finally reached out to <a href="https://www.networkedenergy.com/">NES</a>. And we discovered that NES was in fact very interested in getting the interface and protocol specifications released to Tinkerers like you and us.<br>
-The requirements were that the documents should be released by <a href="https://www.osgp.org/" target="_new">OSGP Alliance</a> and before release the documentation needed an overhaul.<br>
-I the meantime we signed an NDA (Non-Disclosure Agreement) so we could get started in Tinkering with some hard- and software.<br>
-As the work on these documents was not a high priority project for <a href="https://www.networkedenergy.com/">NES</a>, <a href="https://www.osgp.org/" target="_new">OSGP Alliance</a> and us, this unfortunately ended up taking a while...<br>
-<a href="https://sommerhack.dk/" target="_new">Sommerhack 2021</a> went by, this time we did a presentation on our working prototype for MEP - and the promising future with free and available documentation. And at the time writing this, <a href="https://sommerhack.dk/" target="_new">Sommerhack 2022</a> is just "around the corner".<br>
-We are so close now, the repository is ready, the documents are ready. We just need a final sign off on them before they will be available here!<br>
-Just a bit more patience from you - stay tuned!<br>
+See <a href="https://www.dabbler.dk" target="_new">www.dabbler.dk</a> for blog entries telling the story of our journey to get this documentation released.<br>
 
 :electric_plug:<b>OSGP Meter Customer Interface Development Guide (MEP Interface)</b><br>
 This document was previously called "MEP Client Developer’s Guide" and describes how to develop a device that implements the MEP (Multipurpose Expansion Port) protocol. The MEP protocol is a client/server protocol used to exchange OSGP Smart Meter device data, status information, and alarm data between the smart meter and an attached client device.<br>
